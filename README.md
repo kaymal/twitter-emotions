@@ -1,4 +1,4 @@
-# Classifying Twitter Emotions
+# Classifying Tweet Emotions
 
 1. [Data Understanding](https://github.com/kaymal/twitter-emotions/blob/master/data-preparation.ipynb)
 
